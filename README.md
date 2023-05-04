@@ -26,7 +26,7 @@ You can either use docker on your desktop or by using Docker Playground. Descrip
 2. Once installed, enter the following command in the terminal:
 
 ```
-docker run bonolor/garden-ai
+docker run -i bonolor/garden-ai
 ```
 
 **Run container using Docker Playground**
@@ -38,7 +38,7 @@ docker run bonolor/garden-ai
 3. Enter the following command in the terminal:
 
 ```
-docker run bonolor/garden-ai
+docker run -i bonolor/garden-ai
 ```
 
 ### Virtual Environment
@@ -92,7 +92,7 @@ docker run bonolor/garden-ai
   
   _Note: Check to ensure that the virtual environment has been activated_
 
-12. Select garden.py and run the progrm
+12. Select garden.py and run the program
 
 
 ## Usage <a name="usage"><a>
