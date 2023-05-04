@@ -65,7 +65,7 @@ docker run bonolor/garden-ai
   source .venv/bin/activate
   ```
   
-8. Once the virtual environment is created and activated, enter the following command to move into the TrackerProjectSite directory (if you are not already in the directory):
+8. Once the virtual environment is created and activated, enter the following command to move into the garden_ai directory (if you are not already in the directory):
   
   ```
   cd garden_ai
