@@ -79,11 +79,21 @@ docker run bonolor/garden-ai
   
 10. If prompted to upgrade pip, enter:
 
-   ```
+  ```
   pip install --upgrade pip
   ```
 
-11. Run the program.
+11. Install the English model.
+
+  ```
+  python -m spacy download en_core_web_sm
+
+  ```
+  
+  _Note: Check to ensure that the virtual environment has been activated_
+
+12. Select garden.py and run the progrm
+
 
 ## Usage <a name="usage"><a>
 
