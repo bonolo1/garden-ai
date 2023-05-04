@@ -13,7 +13,7 @@ The purpose of this AI program is to review sentences (namely garden-path senten
 
 ## Installation <a name="installation"><a> 
 
-There are two different ways to run the application: using Docker or a virtual environment.
+There are two different ways to run the program: using Docker or a virtual environment.
 
 ### Docker
 
