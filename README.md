@@ -83,7 +83,7 @@ docker run -i bonolor/garden-ai
   pip install --upgrade pip
   ```
 
-11. Install the English model.
+11. Install the English model:
 
   ```
   python -m spacy download en_core_web_sm
